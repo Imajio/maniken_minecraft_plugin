@@ -1,8 +1,8 @@
 name: Maniken
-main: ua.mrsecret.maniken.Maniken
+main: org.mrsecret.maniken.Maniken
 version: 1.0
 api-version: 1.20.4
 commands:
   changehead:
-    description: Sami rezberetes.
+    description: Change the skin of the heads in your inventory.
     usage: /changehead <playername>
