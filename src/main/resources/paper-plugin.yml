@@ -1,0 +1,8 @@
+name: Maniken
+main: ua.mrsecret.maniken
+version: 1.0
+api-version: 1.16
+commands:
+  changehead:
+    description: Sami rezberetes.
+    usage: /changehead <playername>
