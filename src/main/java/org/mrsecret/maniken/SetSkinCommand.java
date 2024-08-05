@@ -26,7 +26,7 @@ public class SetSkinCommand implements CommandExecutor {
                     player.sendMessage(ChatColor.RED + "You must hold a Player Head.");
                 }
             } else {
-                player.sendMessage(ChatColor.RED + "Usage: /setskin <playername>");
+                player.sendMessage(ChatColor.RED + "Usage: /changehead <playername>");
             }
         }
         return false;
